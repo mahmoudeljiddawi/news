@@ -1,0 +1,15 @@
+C:\Users\Mahmoud\Desktop\Task2\Template\NewspaperSellerSimulation\bin\x64\Debug\NewspaperSellerSimulation.exe.config
+C:\Users\Mahmoud\Desktop\Task2\Template\NewspaperSellerSimulation\bin\x64\Debug\NewspaperSellerSimulation.exe
+C:\Users\Mahmoud\Desktop\Task2\Template\NewspaperSellerSimulation\bin\x64\Debug\NewspaperSellerSimulation.pdb
+C:\Users\Mahmoud\Desktop\Task2\Template\NewspaperSellerSimulation\bin\x64\Debug\NewspaperSellerModels.dll
+C:\Users\Mahmoud\Desktop\Task2\Template\NewspaperSellerSimulation\bin\x64\Debug\NewspaperSellerTesting.dll
+C:\Users\Mahmoud\Desktop\Task2\Template\NewspaperSellerSimulation\bin\x64\Debug\NewspaperSellerModels.pdb
+C:\Users\Mahmoud\Desktop\Task2\Template\NewspaperSellerSimulation\obj\x64\Debug\NewspaperSellerSimulation.csprojAssemblyReference.cache
+C:\Users\Mahmoud\Desktop\Task2\Template\NewspaperSellerSimulation\obj\x64\Debug\NewspaperSellerSimulation.Form1.resources
+C:\Users\Mahmoud\Desktop\Task2\Template\NewspaperSellerSimulation\obj\x64\Debug\NewspaperSellerSimulation.Properties.Resources.resources
+C:\Users\Mahmoud\Desktop\Task2\Template\NewspaperSellerSimulation\obj\x64\Debug\NewspaperSellerSimulation.TableResults.resources
+C:\Users\Mahmoud\Desktop\Task2\Template\NewspaperSellerSimulation\obj\x64\Debug\NewspaperSellerSimulation.csproj.GenerateResource.cache
+C:\Users\Mahmoud\Desktop\Task2\Template\NewspaperSellerSimulation\obj\x64\Debug\NewspaperSellerSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\Task2\Template\NewspaperSellerSimulation\obj\x64\Debug\NewspaperSellerSimulation.csproj.CopyComplete
+C:\Users\Mahmoud\Desktop\Task2\Template\NewspaperSellerSimulation\obj\x64\Debug\NewspaperSellerSimulation.exe
+C:\Users\Mahmoud\Desktop\Task2\Template\NewspaperSellerSimulation\obj\x64\Debug\NewspaperSellerSimulation.pdb

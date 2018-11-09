@@ -1,0 +1,6 @@
+C:\Users\Mahmoud\Desktop\Task2\Template\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.dll
+C:\Users\Mahmoud\Desktop\Task2\Template\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\Mahmoud\Desktop\Task2\Template\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\Task2\Template\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.dll
+C:\Users\Mahmoud\Desktop\Task2\Template\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.pdb
+C:\Users\Mahmoud\Desktop\Task2\Template\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csprojAssemblyReference.cache
